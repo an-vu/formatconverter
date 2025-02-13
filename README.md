@@ -6,7 +6,7 @@ Simple Python-based GUI application that converts text into formatted comments f
 
 - **Comment Conversion:**
     - Transforms paragraphs into properly formatted comments for different languages.
-    - Supports comment symbols: #, //, --, %, ;, ' (Python, C, Java, SQL, MATLAB, Lisp, Visual Basic, etc.).
+    - Supports comment symbols: `#`, `//`, `--`, `%`, `;`, `'` (Python, C, Java, SQL, MATLAB, Lisp, Visual Basic, etc.).
 - **EnMoji:**
     - Encrypts text into emojis and decrypts it back to readable text.
     - Uses a predefined emoji mapping system for encoding and decoding.
