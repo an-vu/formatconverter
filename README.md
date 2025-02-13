@@ -1,6 +1,6 @@
 # Format Converter
 
-Small Python-based GUI application that converts text into formatted comments for various programming languages and provides a fun emoji-based encryption/decryption feature called EnMoji.
+Simple Python-based GUI application that converts text into formatted comments for various programming languages and provides a fun emoji-based encryption/decryption feature called EnMoji.
 
 ## Features
 
