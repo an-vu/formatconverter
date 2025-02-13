@@ -1,17 +1,23 @@
 # Format Converter
 
-## Features:
+## Features
 
-- Allows users to convert paragraphs into formatted comments suitable for various programming languages. It supports converting text to comments with symbols like #, //, --, etc.
-- Additionally, the app features an 'EnMoji' function to encrypt and decrypt text using emojis.
-- An easter egg feature inspired by the Matrix movie.
+- **Comment Conversion:**  
+  Converts paragraphs into formatted comments suitable for various programming languages.  
+  Supports comment symbols like `#`, `//`, `--`, etc.
+- **EnMoji Function:**  
+  Encrypts and decrypts text using emojis.
 
-## 
+## How to Use
 
-To use the app, simply paste or type your text into the input area, select the desired conversion option (comment conversion or emoji encryption/decryption), and click 'Convert'.
-The output will be displayed in the output area, where it can be copied to the clipboard.
+- Simply paste or type your text into the input area.
+- Choose your conversion option:
+  - Comment conversion
+  - Emoji encryption/decryption
+- Click **Convert**.
+- View the output and copy it to the clipboard.
 
-## Test Paragraph:
+## Test Paragraph
 
 ```
 ---------------------------------------------
